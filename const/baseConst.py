@@ -1,0 +1,1 @@
+inputText, select, radio, buttonPopUpWindow, hiddenInputText, button, buttonConfirmation, buttonPopUpWindowRadio  = ['inputText', 'select', 'radio', 'buttonPopUpWindow', 'hiddenInputText', 'button', 'buttonConfirmation', 'buttonPopUpWindowRadio']
